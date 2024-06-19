@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "614583522185",
+    "firebase_url": "https://fir-dosen-aef5c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-dosen-aef5c",
+    "storage_bucket": "fir-dosen-aef5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614583522185:android:debf4c019f41d79d3e8758",
+        "android_client_info": {
+          "package_name": "com.universitaskuningan.firebasedosen1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-xmSOxr9FEWy5Z06RqaIuKbLUOW6JZdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
